@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Ranaware  
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Spring Boot
+- 👀 I have experience in Development
+- 🌱 I’m currently doing project using Spring Boot
 - 💞️ I’m looking to collaborate on anyone who can teach something new
 - 📫 How to reach me adityaranaware1301@gmail.com
 
